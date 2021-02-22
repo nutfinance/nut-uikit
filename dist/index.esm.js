@@ -2080,10 +2080,6 @@ var links = [
                 href: "https://github.com/nutfinance/",
             },
             {
-                label: "Docs",
-                href: "https://goosedefi.gitbook.io/nut-finance/",
-            },
-            {
                 label: "Blog",
                 href: "https://nutfinance.medium.com/",
             },
@@ -2097,7 +2093,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/nutfinance",
+                href: "https://t.me/nutdefi",
             },
         ],
     },
