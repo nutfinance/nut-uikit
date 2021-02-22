@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/nutfinance",
+        href: "https://t.me/nutdefi",
       },
       // {
       //   label: "Bahasa Indonesia",
